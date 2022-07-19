@@ -16,3 +16,5 @@ functionality to perform network calls and UI rendering on separate threads.
 * c. rich → This library helps in enhancing the UI by styling the terminal. Inside this project, it is
 used to create tables, show emoticons, and enrich the text with colors and different font styles.
 3. A knack for programming.
+
+
