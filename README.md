@@ -17,4 +17,6 @@ functionality to perform network calls and UI rendering on separate threads.
 used to create tables, show emoticons, and enrich the text with colors and different font styles.
 3. A knack for programming.
 
+### Modulation
+
 ![This is an image](https://raw.githubusercontent.com/aastha628/gmail-client/main/assets/Group%2043.png)
